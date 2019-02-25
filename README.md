@@ -65,7 +65,7 @@ license
   * VE should walk around & confirm correct exam number is on their
   exam
   * Tell everone else to __PLEASE BE QUIET__
-* Testings that passed their exam need to have their CSCE
+* Testees that passed their exam need to have their CSCE
 * Testees need to have signatures match what they printed
   * No smiley faces
 
