@@ -4,9 +4,9 @@ Volunteer examiner check list for amateur radio test sessions
 ## Requirements
 * Minimum of 3 VE's, 4 is better
 * A Windows laptop with the Laurel VEC software installed
-* Minimum 2 mobile devices with ZipGrade installed
+* Minimum 2 mobile devices with _ZipGrade_ installed
   * Need to provide group code to activate and load answer sheets
-* printer
+* Printer - See [Items in the _Tub_](#Items-in-the-_The-Tub_)
 * phone to contact Cory
 * Stand to organize manila folders
 * File back up location for Laurel critical files.
@@ -21,9 +21,10 @@ Volunteer examiner check list for amateur radio test sessions
 * Box of random pins (recommend couple red, rest blue/black)
 * Stapler (to generate packet at end)
 * Small box of paper clips to keep tests/forms/etc together
+* Printer
 
 
-## Time line
+## Time Line
 
 ##### Commitment of 3 or more VE's schedule
 #####  Reserve a room for testing
@@ -32,13 +33,14 @@ Volunteer examiner check list for amateur radio test sessions
   * Old FH Fire Station
 
 ##### Enter Testing Session in Laurel Site
-* Required for testing session, automatically puts on Laurel Site
+* Required for testing session
+  * automatically puts announcement on Laurel Site
 
 ##### Advertise X weeks before exam session
 * Lopez Rocks
 * The Islands' Weekly
-* Laurel VEC session announce
-  * Optional: ARRL VEC announce
+* Laurel VEC session announcement - occurs when entering testing session
+  * Optional: ARRL VEC announcement
 
 
 ##### Exam classes or not
