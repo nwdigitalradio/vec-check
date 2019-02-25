@@ -69,7 +69,7 @@ license
 * print the 605/CSCE and __NOT__ 'close out' the testee until the 605
 has been received and signature checked.
 * If testee fails an exam, another exam may be given
-* If testee passes an exam __be sure they get their CSCE
+* If testee passes an exam __be sure they get their CSCE__
 
 
 ### Day after exam
