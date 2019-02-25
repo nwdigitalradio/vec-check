@@ -5,6 +5,7 @@ Volunteer examiner check list for amateur radio test sessions
 * Minimum of 3 VE's, 4 is better
 * A Windows laptop with the Laurel VEC software installed
 * Minimum 2 mobile devices with ZipGrade installed
+  * Need to provide group code to activate and load answer sheets
 * printer
 * phone to contact Cory
 * Stand to organize manila folders
@@ -13,8 +14,13 @@ Volunteer examiner check list for amateur radio test sessions
 * _The Tub_
 
 #### Items in the _The Tub_
-* Need tub item list here
-
+* Test Folders, one for Element 2,3,4
+* Answer Key Folders, need to be keyed to ZipGrade
+* Blank sheets of paper for printing 605/CSCE
+* 25ft extension cord with three head outlet
+* Box of random pins (recommend couple red, rest blue/black)
+* Stapler (to generate packet at end)
+* Small box of paper clips to keep tests/forms/etc together
 
 
 ## Time line
@@ -24,6 +30,9 @@ Volunteer examiner check list for amateur radio test sessions
 * Lopez: Library Common Room
 * SJ: Friday Harbor Commons building
   * Old FH Fire Station
+
+##### Enter Testing Session in Laurel Site
+* Required for testing session, automatically puts on Laurel Site
 
 ##### Advertise X weeks before exam session
 * Lopez Rocks
@@ -42,6 +51,7 @@ Volunteer examiner check list for amateur radio test sessions
 * Includes new testees without an Amateur license
 
 ###### Walk-ins should get an FRN number at session
+* Need process for getting walk-ins FRN, how-to and laptop?
 
 ### Day of Session
 * VEs should show up half hour in advance
