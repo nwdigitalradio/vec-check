@@ -38,6 +38,9 @@ Volunteer examiner check list for amateur radio test sessions
 * Need to fill-in & return a sign up form located ?here?
 
 ###### Each testee should get an FRN number before session day
+* [Getting
+an FCC Registration Number (FRN) in the Universal Licensing System
+(ULS)](https://www.fcc.gov/wireless/support/universal-licensing-system-uls-resources/getting-fcc-registration-number-frn)
 * Alliviates SSN requirement
 * Includes new testees without an Amateur license
 
