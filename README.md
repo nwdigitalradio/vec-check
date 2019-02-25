@@ -13,7 +13,7 @@ Volunteer examiner check list for amateur radio test sessions
 * SAT Certified calculater
 * _The Tub_
 
-#### Items in the _The Tub_
+#### Items in _The Tub_
 * Test Folders, one for Element 2,3,4
 * Answer Key Folders, need to be keyed to ZipGrade
 * Blank sheets of paper for printing 605/CSCE
