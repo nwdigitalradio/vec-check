@@ -1,7 +1,6 @@
 # San Juan Islands VE Team Laurel VEC
 
 
-
 ### Amateur Radio License Exam Sign-in Form
 
 Note that the information on this form will become public record once your license is issued.
@@ -27,6 +26,7 @@ the FCC at: https://apps.fcc.gov/coresWeb/ (Note the capital W)
 ```
 
 ```
+
           ________________________________________________________________
           City                      State                    ZIP Code
 ```
