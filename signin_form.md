@@ -7,6 +7,8 @@ Note that the information on this form will become public record once your licen
 
 ## Applicant Information
 ##### FCC Registration
+<img align="right" width="100" height="100" src="https://github.com/nwdigitalradio/vec-check/blob/master/images/FCC_CORES_link.png">
+
 ```
 Number (FRN):
 ```
