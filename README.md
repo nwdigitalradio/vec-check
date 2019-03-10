@@ -47,6 +47,7 @@ Volunteer examiner check list for amateur radio test sessions
 
 ##### __IMPORTANT__ Testees should pre-register
 * Need to fill-in & return a sign up form located [here](https://github.com/nwdigitalradio/vec-check/blob/master/signin_form.md)
+  * Verify that they have filled in their email address.
 
 ###### Each testee should get an FRN number before session day
 * [Getting
