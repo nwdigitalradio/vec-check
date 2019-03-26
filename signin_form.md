@@ -42,9 +42,8 @@ the FCC at: https://apps.fcc.gov/coresWeb/ (Note the capital W)
 
 ```
 Radio Call Sign                              License Class for
-(current or expired):  ___________________   Existing Call Sign: _________________________
+(current or expired):  ___________________   Existing Call Sign: _______________________
 ```
-
 
 Have you ever been convicted of a felony in any state or federal court?
 - [ ] Yes
@@ -55,5 +54,3 @@ your application. (See us for instruction sheet.)
 
 
 __Once you have completed this form, please have your government issued photo ID ready for verification by the examiners.__
-
-
