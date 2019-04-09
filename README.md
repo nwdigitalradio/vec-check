@@ -115,7 +115,7 @@ has been received and signature checked.
   * Summary Report (from software)
   * Applicant Roster (from software)
   * signed in form of VE
-  * packet of tester papers (605,Answer Sheet,SignInSheet/copy of license)
+  * packet of tester papers (605,Answer Sheet,SignInSheet,copy of license)
 
 ### Other notes
 * VEs auditing the session need to __PLEASE BE QUIET__
