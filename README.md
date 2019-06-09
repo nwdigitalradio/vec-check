@@ -6,7 +6,7 @@ Volunteer examiner check list for amateur radio test sessions
 * A Windows laptop with the Laurel VEC software installed
 * Minimum 2 mobile devices with _ZipGrade_ installed
   * Need to provide group code to activate and load answer sheets
-* Printer - See [Items in the _Tub_](#Items-in-the-_The-Tub_)
+* Printer - See [tub inventory](https://github.com/nwdigitalradio/vec-check/blob/master/tub-inventory.md)
 * phone to contact Cory
 * Stand to organize manila folders
 * File back up location for Laurel critical files.
