@@ -2,7 +2,7 @@
 
 * 25ft extension cord with three head outlet
 * Box of random pins (recommend couple red, rest blue/black)
-* Milton's Stapler (to generate packet at end)
+* [Milton's Stapler](https://www.youtube.com/watch?v=uVD3KPUnKHk) (to generate packet at end)
 * Small box of paper clips to keep tests/forms/etc together
 * [SAT Certified calculator](https://www.techpoweredmath.com/calculators-for-the-sat/) ie. TI-30XA (no memory, no WiFi)
 
