@@ -28,7 +28,7 @@
 * Black sharpie
 * Box of BIC pens black & red
 
-##### Manilla Folders
+#### Manilla Folders
 
 ###### Test Folders for Elements 2,3,4
 
