@@ -14,15 +14,7 @@ Volunteer examiner check list for amateur radio test sessions
 * _The Tub_
 
 #### Items in _The Tub_
-* Test Folders, one for Element 2,3,4
-* Answer Key Folders, need to be keyed to ZipGrade
-* Blank sheets of paper for printing 605/CSCE
-* 25ft extension cord with three head outlet
-* Box of random pins (recommend couple red, rest blue/black)
-* Stapler (to generate packet at end)
-* Small box of paper clips to keep tests/forms/etc together
-* Printer
-
+* [Tub Inventory]((https://github.com/nwdigitalradio/vec-check/blob/master/tub-inventory.md)
 
 ## Time Line
 
