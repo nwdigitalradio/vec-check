@@ -14,7 +14,7 @@ Volunteer examiner check list for amateur radio test sessions
 * _The Tub_
 
 #### Items in _The Tub_
-* [Tub Inventory]((https://github.com/nwdigitalradio/vec-check/blob/master/tub-inventory.md)
+* [Tub Inventory](https://github.com/nwdigitalradio/vec-check/blob/master/tub-inventory.md)
 
 ## Time Line
 
