@@ -34,6 +34,10 @@ Volunteer examiner check list for amateur radio test sessions
 * Laurel VEC session announcement - occurs when entering testing session
   * Optional: ARRL VEC announcement
 
+##### VE Team to-do
+* Set the time when VE's should arrive
+* Assign exam session leader (person running computer)
+* Assign tester leader (team interacting with testers and grading tests)
 
 ##### Exam classes or not
 
