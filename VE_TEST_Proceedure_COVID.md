@@ -1,5 +1,5 @@
 ## Draft procedure for HAM exams June 26, 2020
-
+* Refer to [vec-check README](README.md) for detailed check list.
 * Possible VE's: (please confirm)
   * Brian
   *  Corky
