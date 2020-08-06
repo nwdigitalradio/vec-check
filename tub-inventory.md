@@ -11,6 +11,7 @@
 * Windows laptop with Laurel VEC Session Manager - Team Leader Edition installed
   * Power supply for laptop
   * Power cord for power supply
+  * USB device to transfer final .enc file to Kenny
 
 #### Printer
 
@@ -18,6 +19,7 @@
   * USB cable to connect laptop to printer
   * Power cord for printer
   * Spare printer ink cartridge [HP 63](https://www.amazon.com/dp/B00WJDWGA8?)
+    * [[https://www.amazon.com/gp/product/B00WJDWGA8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 | HP 63XL]]
 
 #### Pens/Pencils
 
