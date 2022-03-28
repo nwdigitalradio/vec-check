@@ -109,8 +109,8 @@ has been received and signature checked.
   * Needs to be pushed to Laurel site, under session. Will automatically be scheduled to send to FCC
 * Assemble packet
   * Summary Report (from software)
-  * Applicant Roster (from software)
-  * signed in form of VE
+  * List of Applicant (from software, Tool/Print List of Applicants)
+  * signed in form of VE's
   * packet of tester papers (605,Answer Sheet,SignInSheet,copy of license)
   * Assemble all artifacts in single PDF and upload to Laurel site as part of the session
 
