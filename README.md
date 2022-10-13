@@ -127,7 +127,7 @@ has been received and signature checked.
 
 * Create tar.xz file for VEC session on June 22
 ```
-tar --xz -cvf LopezVESession0622.tar.xz AnswerSheetBob.pdf AnswerSheetDoug.pdf 605.pdf SessionSummary.pdf csce.pdf BYSJCARS220622A0.enc
+tar --xz -cvf LopezVESession0622.tar.xz AnswerSheetBob.pdf AnswerSheetDoug.pdf 605Bob.pdf 605Doug.pdf csceBob.pdf csceDoug.pdf SessionSummary.pdf BYSJCARS220622A0.enc
 ```
 
 * Verify contents of tar.xz file
