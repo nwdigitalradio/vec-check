@@ -123,7 +123,8 @@ has been received and signature checked.
     * 605.pdf
     * csce.pdf
   * SessionSummary.pdf
-  * BYSJCARS220622A0.enc
+  * VESignIn.pdf
+  * BYSJCARS220622A0.enc (example file name) 
 
 * Create tar.xz file for VEC session on June 22
 ```
