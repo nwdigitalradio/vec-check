@@ -113,6 +113,25 @@ has been received and signature checked.
   * signed in form of VE
   * packet of tester papers (605,Answer Sheet,SignInSheet,copy of license)
 
+#### List of files required to send to Kenny in a tar.xz file
+
+* If Kenny is not present be sure to exclude his name from VE roster
+  * Answer sheet from each testee
+  * 605.pdf
+  * SessionSummary.pdf
+  * csce.pdf
+  * BYSJCARS220622A0.enc
+
+* Create tar.xz file for VEC session on June 22
+```
+tar --xz -cvf LopezVESession0622.tar.xz AnswerSheetBob.pdf AnswerSheetDoug.pdf 605.pdf SessionSummary.pdf csce.pdf BYSJCARS220622A0.enc
+```
+
+* Verify contents of tar.xz file
+```
+tar -tvf LopezVESession0622.tar.xz
+```
+
 ### Other notes
 * VEs auditing the session need to __PLEASE BE QUIET__
 
