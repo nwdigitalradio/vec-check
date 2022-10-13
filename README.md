@@ -117,10 +117,12 @@ has been received and signature checked.
 #### List of files required to send to Kenny in a tar.xz file
 
 * If Kenny is not present be sure to exclude his name from VE roster
-  * Answer sheet from each testee
-  * 605.pdf
+* Packet content files
+  * From each testee
+    * Answer sheet
+    * 605.pdf
+    * csce.pdf
   * SessionSummary.pdf
-  * csce.pdf
   * BYSJCARS220622A0.enc
 
 * Create tar.xz file for VEC session on June 22
