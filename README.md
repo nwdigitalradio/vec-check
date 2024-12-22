@@ -139,4 +139,11 @@ tar -tvf LopezVESession0622.tar.xz
 ### Other notes
 * VEs auditing the session need to __PLEASE BE QUIET__
 
+### FAQ - What happens if no tests given?
+* Still need to generate the following files, even if no tests were given, to get credit for the session.
+  * SessionSummary.pdf
+  * VESignIn.pdf
+  * Empty or blank .enc file (generate like normal, will complain that empty)
+    
+
 
